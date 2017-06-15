@@ -44,3 +44,8 @@ import slimeknights.tconstruct.shared.TinkerCommons
 BWMRecipeHelper.addKilnRecipe(TinkerCommons.blockSoil, 0, TinkerCommons.searedBrick)
 
 betterwithmods.util.RecipeUtils.removeFurnaceRecipe(TinkerCommons.grout)
+
+//Coal coke.
+import mods.railcraft.common.blocks.aesthetics.generic.EnumGeneric
+
+BWMRecipeHelper.addKilnRecipe(net.minecraft.init.Blocks.field_150402_ci, 0, EnumGeneric.BLOCK_COKE.stack)
