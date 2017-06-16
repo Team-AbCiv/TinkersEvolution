@@ -59,18 +59,12 @@
   "login": {
     "motd":  [
 		"Good day, sir/madam!",
-		"Some icecream?",
-		"Another wonderful day to tinker ... and evolution!",
-		"May the for.. kek, tinkering be with you!",
+		"...Some icecream? Or a little cruise?",
+		"...Another wonderful day to tinker ... and evolution!",
+		"...May the for.. kek, tinkering be with you!",
 		"Why there is no vanilla quote in minecraft...",
-		"A little cruise?",
-		"This is a no fire zone!",
-		"This is our domain!",
-		"Cryocopter, hello?",
-		"Where's the next stop?!",
-		"Behold, the shogun battleship!",
-		"Spartan battalion, sir!",
-		"Right man, right job."
+		"Intercepted transmission 1: Cryocopter, hello? ... Where's the next stop?! ... Behold, the shogun battleship!",
+		"Intercepted transmission 2: Spartan battalion, sir! ... Right man, right job."
 	],
     "enable_motd": true,
     "enable_starting_items": false,
