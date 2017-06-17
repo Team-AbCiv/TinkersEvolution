@@ -58,14 +58,13 @@
   },
   "login": {
     "motd":  [
-		"Good day, sir/madam!",
-		"...Some icecream? Or a little cruise?",
-		"...Another wonderful day to tinker ... and evolution!",
-		"...May the for.. kek, tinkering be with you!",
-		"Why there is no vanilla quote in minecraft...",
-		"Intercepted transmission 1: Cryocopter, hello? ... Where's the next stop?! ... Behold, the shogun battleship!",
-		"Intercepted transmission 2: Spartan battalion, sir! ... Right man, right job."
-	],
+      "Good day, sir/madam! Want some icecream, or a little cruise?",
+      "Another wonderful day to \u00A7otinker&r ... and &levolution&r!",
+      "...May the for.. kek, \u00A7ltinkering&r be with you!",
+      "\u00A7mWhy there is no vanilla quote in minecraft...&r",
+      "\u00A7oIntercepted transmission 1: \u00A7bCryocopter, hello? ... \u00A7cWhere's the next stop?! ... \u00A76Behold, the shogun battleship!&r",
+      "\u00A7oIntercepted transmission 2: \u00A7bSpartan battalion, sir! ... \u00A7cRight man, right job."
+    ],
     "enable_motd": true,
     "enable_starting_items": false,
     "starting_items": []
@@ -73,6 +72,6 @@
   "ranks": {
     "override_chat": true,
     "override_commands": true,
-    "enabled": true
+    "enabled": false
   }
 }
