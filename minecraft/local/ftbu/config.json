@@ -3,14 +3,14 @@
     "backups_to_keep": 12,
     "display_file_size": true,
     "enabled": true,
-    "backup_timer": 2.0,
+    "backup_timer": 1.0,
     "compression_level": 1,
     "silent": false,
     "folder": "",
     "use_separate_thread": true
   },
   "commands": {
-    "chunks": true,
+    "chunks": false,
     "trash_can": true,
     "ranks": true,
     "view_crash": true,
@@ -21,7 +21,7 @@
     "back": true,
     "server_info": true,
     "spawn": true,
-    "loaded_chunks": true,
+    "loaded_chunks": false,
     "home": true,
     "kickme": true
   },
@@ -45,9 +45,9 @@
     "restart_timer": 12.0
   },
   "world": {
-    "chunk_loading": true,
+    "chunk_loading": false,
     "log_chunkloading": false,
-    "chunk_claiming": true,
+    "chunk_claiming": false,
     "safe_spawn": false,
     "spawn_area_in_sp": false
   },
@@ -57,9 +57,17 @@
     "file_location": ""
   },
   "login": {
-    "motd": [],
+    "motd":  [
+		"Good day, sir/madam!",
+		"...Some icecream? Or a little cruise?",
+		"...Another wonderful day to tinker ... and evolution!",
+		"...May the for.. kek, tinkering be with you!",
+		"Why there is no vanilla quote in minecraft...",
+		"Intercepted transmission 1: Cryocopter, hello? ... Where's the next stop?! ... Behold, the shogun battleship!",
+		"Intercepted transmission 2: Spartan battalion, sir! ... Right man, right job."
+	],
     "enable_motd": true,
-    "enable_starting_items": true,
+    "enable_starting_items": false,
     "starting_items": []
   },
   "ranks": {

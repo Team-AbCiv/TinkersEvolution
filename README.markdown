@@ -25,6 +25,7 @@ Till today, when Steve. Alex and his fellows started to find it.
 |Just Enough Items|mezz|3.14.7.419|MIT|
 |Mantle|SlimeKnights|1.10.2-1.1.5|MIT|
 |Meltery-AbCiv|primetoxinz, Glease|1.10.2-1.0.1<sup>Note 1</sup>|MIT|
+|Persistent Bits|oitsjustjose|1.0.6(1.10.2)|GPL v3|
 |Natura|mDiyo, Slime Knights, et alias|1.10.2-4.1.0.65|Creative Commons Attribution 3.0|
 |Railcraft|CovertJaguar, et alias|1.10.2-10.11.2|Granted for modpack usage|
 |Realistic Terrain Generation|Team RTG|1.10.2-4.2.0.0|GPL V3|
