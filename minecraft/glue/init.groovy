@@ -5,13 +5,10 @@ import net.minecraft.item.ItemStack
 import net.minecraftforge.oredict.OreDictionary
 
 //steel requires crucible, non-stocked is fine
+//Steel nuggest cannot be removed during Init stage, so handled by separated mod
 ItemStack steel = OreDictionary.getOres("ingotSteel").get(0).func_77946_l()
 steel.field_77994_a = 2 //ItemStack.stackSize
 BWMRecipeHelper.addCrucibleRecipe(steel, ["dustCoal", "ingotIron", 2] as Object[])
-
-OreDictionary.getOres("nuggetIron").forEach { ItemStack stack ->
-    betterwithmods.util.RecipeUtils.removeFurnaceRecipe(stack)
-}
 
 //Soulforged steel requires steel
 import betterwithmods.craft.bulk.CraftingManagerCrucibleStoked

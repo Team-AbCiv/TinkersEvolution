@@ -1,4 +1,4 @@
-3211 nodes in total
+3220 nodes in total
 
 command.achievement: CMD
 command.blockdata: CMD
@@ -319,8 +319,10 @@ ftbu.claims.block.edit.forestry.ffarm: OP
 ftbu.claims.block.edit.forestry.fluid.bio.ethanol: OP
 ftbu.claims.block.edit.forestry.fluid.biomass: OP
 ftbu.claims.block.edit.forestry.fluid.for.honey: OP
+ftbu.claims.block.edit.forestry.fluid.glass: OP
 ftbu.claims.block.edit.forestry.fluid.ice: OP
 ftbu.claims.block.edit.forestry.fluid.juice: OP
+ftbu.claims.block.edit.forestry.fluid.milk: OP
 ftbu.claims.block.edit.forestry.fluid.seed.oil: OP
 ftbu.claims.block.edit.forestry.fluid.short.mead: OP
 ftbu.claims.block.edit.forestry.greenhouse.butterfly_hatch: OP
@@ -839,6 +841,7 @@ ftbu.claims.block.edit.natura.willow_fence: OP
 ftbu.claims.block.edit.natura.willow_fence_gate: OP
 ftbu.claims.block.edit.natura.willow_pressure_plate: OP
 ftbu.claims.block.edit.natura.willow_trap_door: OP
+ftbu.claims.block.edit.persistentbits.chunk_loader: OP
 ftbu.claims.block.edit.railcraft.actuator: OP
 ftbu.claims.block.edit.railcraft.anvil: OP
 ftbu.claims.block.edit.railcraft.brick_abyssal: OP
@@ -1197,8 +1200,10 @@ ftbu.claims.block.interact.forestry.ffarm: OP
 ftbu.claims.block.interact.forestry.fluid.bio.ethanol: OP
 ftbu.claims.block.interact.forestry.fluid.biomass: OP
 ftbu.claims.block.interact.forestry.fluid.for.honey: OP
+ftbu.claims.block.interact.forestry.fluid.glass: OP
 ftbu.claims.block.interact.forestry.fluid.ice: OP
 ftbu.claims.block.interact.forestry.fluid.juice: OP
+ftbu.claims.block.interact.forestry.fluid.milk: OP
 ftbu.claims.block.interact.forestry.fluid.seed.oil: OP
 ftbu.claims.block.interact.forestry.fluid.short.mead: OP
 ftbu.claims.block.interact.forestry.greenhouse.butterfly_hatch: OP
@@ -1716,6 +1721,7 @@ ftbu.claims.block.interact.natura.willow_fence: OP
 ftbu.claims.block.interact.natura.willow_fence_gate: OP
 ftbu.claims.block.interact.natura.willow_pressure_plate: OP
 ftbu.claims.block.interact.natura.willow_trap_door: OP
+ftbu.claims.block.interact.persistentbits.chunk_loader: OP
 ftbu.claims.block.interact.railcraft.actuator: OP
 ftbu.claims.block.interact.railcraft.anvil: ALL
 ftbu.claims.block.interact.railcraft.brick_abyssal: OP
@@ -2250,8 +2256,10 @@ ftbu.claims.item.forestry.ffarm: ALL
 ftbu.claims.item.forestry.fluid.bio.ethanol: ALL
 ftbu.claims.item.forestry.fluid.biomass: ALL
 ftbu.claims.item.forestry.fluid.for.honey: ALL
+ftbu.claims.item.forestry.fluid.glass: ALL
 ftbu.claims.item.forestry.fluid.ice: ALL
 ftbu.claims.item.forestry.fluid.juice: ALL
+ftbu.claims.item.forestry.fluid.milk: ALL
 ftbu.claims.item.forestry.fluid.seed.oil: ALL
 ftbu.claims.item.forestry.fluid.short.mead: ALL
 ftbu.claims.item.forestry.foresterbag: ALL
@@ -2989,6 +2997,7 @@ ftbu.claims.item.natura.willow_fence: ALL
 ftbu.claims.item.natura.willow_fence_gate: ALL
 ftbu.claims.item.natura.willow_pressure_plate: ALL
 ftbu.claims.item.natura.willow_trap_door: ALL
+ftbu.claims.item.persistentbits.chunk_loader: ALL
 ftbu.claims.item.railcraft.actuator: ALL
 ftbu.claims.item.railcraft.anvil: ALL
 ftbu.claims.item.railcraft.armor_boots_steel: ALL
