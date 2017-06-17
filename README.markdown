@@ -11,7 +11,7 @@ Till today, when Steve. Alex and his fellows started to find it.
 ### Mod list
 |Mod name|Author|Version|Permission|
 |------|------|------|------|
-|AbCiv-V1-RecipeFix|Glease|?|?|
+|AbCiv-V1-RecipeFix|Glease|1.0.0|Apache v2.0|
 |Better With Mods|BeetoGuy|0.14.24-1.10.2|MIT|
 |Chameleon|jaquadro|1.10.2-2.3.0|MIT|
 |Chisel & Bits|AlgorithmX2|12.12|LGPL V3|
