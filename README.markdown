@@ -21,7 +21,7 @@ Till today, when Steve. Alex and his fellows started to find it.
 |Forestry|SirSengir, mezz, et alias|5.2.17.376|LGPL V3|
 |FTBLib|LatModder|1.1x-3.6.5|Granted for modpack usage|
 |FTBUtilities|LatModder|1.1x-3.6.5|Granted for modpack usage|
-|Glue|3TUSK|0.0.0|Apache-2.0|
+|Glue|3TUSK|0.1.0|Apache-2.0|
 |Just Enough Items|mezz|3.14.7.419|MIT|
 |Mantle|SlimeKnights|1.10.2-1.1.5|MIT|
 |Meltery-AbCiv|primetoxinz, Glease|1.10.2-1.0.1<sup>Note 1</sup>|MIT|
@@ -34,7 +34,7 @@ Till today, when Steve. Alex and his fellows started to find it.
 |Timberjack|CovertJaguar|1.10.2-1.5|MIT|
 |Tinkers Tool Leveling|boni|1.10.2-1.0.1|MIT|
 |Tinkers' Construct|boni, KnightMiner, et alias|1.10.2-2.6.5|MIT|
-|Tough As Nails|Adubbz, Forstride|1.9.4-1.1.1|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International|
+|Tough As Nails|Adubbz, Forstride|1.9.4-1.1.1.9|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International|
 
 Note:
  1. Meltery-AbCiv is a derived work of "Meltery", orginally authored by primetoxinz, adapted for using in Minecraft 1.10.2 Release
